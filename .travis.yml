@@ -8,7 +8,7 @@ addons:
     - redis-tools
     - redis-server
 jdk:
-  - oraclejdk8
   - oraclejdk9
-  - openjdk8
+  - oraclejdk11
+  - openjdk9
   
